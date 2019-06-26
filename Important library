@@ -1,0 +1,10 @@
+1. for performing dataframe operation we are going to use pandas library
+   import pandas as pd
+2. for visualize the graph we use matplotlib library
+   import matplotlib.pyplot as plt
+3. for importing inbuilt datasets sklearn is used
+   from sklearn import linear_model, datasets
+4. For finding linear regression we are going to use 
+   from sklearn.linear_model import LinearRegression
+5. finding mean square error  
+   from sklearn.metrics import mean_squared_error
